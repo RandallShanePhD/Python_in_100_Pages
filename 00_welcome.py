@@ -5,13 +5,13 @@ import sys
 
 
 def say_hello():
+    # This simple function asks your name and returns it.
     name = input('Tell me your name... ')
     print('\n')
     print('Hello %s!' % name)
     print('You are running ', sys.version)
     print('Enjoy!')
     print('\n')
-
 
 
 if __name__ == '__main__':
