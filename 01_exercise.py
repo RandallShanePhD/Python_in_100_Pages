@@ -1,5 +1,5 @@
 # Python in 100 Pages - v2
-# Randall Shane, PhD
+# Setup Exercise
 
 # Simple ASCII art!
 print('')
